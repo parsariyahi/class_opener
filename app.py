@@ -45,3 +45,4 @@ if start <= current_hour <= end:
     wb.get(CHROME_PATH).open_new_tab(url)
 else :
     print('you dont have any class right now')
+    
